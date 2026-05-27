@@ -4,7 +4,7 @@
 
 ## Download
 
-  [Download Scribble Map latest](https://raw.githubusercontent.com/teabeg-ger/scribble-map-releases/main/scribble-map-latest.xpi)
+  [Download Scribble Map latest](https://github.com/teabeg-ger/scribble-map-releases/releases/latest/download/scribble-map-latest.xpi)
 
 ### Installation
 
