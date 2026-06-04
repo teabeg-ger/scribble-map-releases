@@ -8,7 +8,7 @@
 
 ### Installation
 
-  1. Download the `.xpi` file above
+  1. Download the `.xpi` file above, if not automatically installing -> follow next steps
   2. Open Firefox and go to `about:addons`
   3. Gear icon → "Install Add-on From File" → select the `.xpi`
 
