@@ -1,6 +1,6 @@
 # Scribble Map
 
-  Browser extension for crawling websites into a Markdown overview.
+  Browser extension for crawling websites into a HTML overview.
 
 ## Download
 
